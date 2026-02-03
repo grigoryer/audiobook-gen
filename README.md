@@ -8,7 +8,7 @@ Automated pipeline to convert EPUB books into audiobook videos. Supports multipl
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/audiobook-pipeline.git
+git clone https://github.com/grigoryer/audiobook-pipeline.git
 cd audiobook-pipeline
 
 # 2. Install dependencies
